@@ -1,4 +1,4 @@
-<img src="images/Rachel Blake Linkedin Banner.png" alt="profile banner that reads Rachel Blake, Software Developer | Data Enthusiast">
+<img src="images/Rachel Blake.png" alt="profile banner that reads Rachel Blake, Aspiring Software Developer">
 
 ### Hi there 👋
 
