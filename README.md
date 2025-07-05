@@ -1,4 +1,4 @@
-<img src="images/github-image.png" alt="profile banner depicting cartoon animation of woman walking dog">
+<img src="images/github-image.png" style="display:block; margin: 0 auto" alt="profile banner depicting cartoon animation of woman walking dog">
 
 ### Hi there 👋
 
