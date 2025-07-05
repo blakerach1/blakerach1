@@ -1,12 +1,12 @@
-<img src="images/github-image.png" alt="profile banner depicting cartoon animation of woman walking dog">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div>
 
 ### Hi there 👋
 
 I'm a full stack junior developer at Racing & Wagering WA (RWWA).
 
 I got my start after completing the 2023/24 She Codes Plus Program in Perth, Western Australia.
-
-<img src="images/she-codes-logo.png" width="150px" alt="She Codes Australia logo">
+<img src="images/she-codes-logo.png" style="display: block; margin: 0 auto" width="150px" alt="She Codes Australia logo">
 
 She Codes Plus is a six month tech program that focuses on building projects including:
 
@@ -14,7 +14,9 @@ She Codes Plus is a six month tech program that focuses on building projects inc
 - Manipulating data with Python
 - Using Frameworks such as Django and React JS
 
-</br>
+</div>
+<img src="images/github-image.png" alt="profile banner depicting cartoon animation of woman walking dog">
+</div>
 
 ---
 
